@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Generated / user data
+faiss_index*/
+data/*.pdf
+eval_questions.json
+test_bedrock.py
+try_models.py
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

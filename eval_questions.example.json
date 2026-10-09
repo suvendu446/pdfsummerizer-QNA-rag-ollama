@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Replace with a question whose answer is in one of your PDFs",
+    "expected_keywords": ["a word or phrase that appears in the correct passage", "an alternative spelling"]
+  },
+  {
+    "question": "Second example question",
+    "expected_keywords": ["keyword"]
+  }
+]
